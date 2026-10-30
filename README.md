@@ -28,7 +28,3 @@ Tout le code est dans `MainActivity.kt`.
 ## Capture
 
 ![Capture de l'application](docs/tp-android-screen.png)
-
-## Lien Git
-
-https://github.com/KD63799/Android-TP-DP-30.10
